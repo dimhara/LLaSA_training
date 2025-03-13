@@ -1,6 +1,6 @@
 {
   "llm_model_name_or_path": "HKUSTAudio/Llasa-1B-Multilingual",
-  "data_path": "/data_prep",
+  "data_path": "/contents/data_prep",
   "bf16": true,
   "output_dir": "/contents/results_tts_lora",
   "num_train_epochs": 2,
